@@ -1,0 +1,1 @@
+"""Textos educativos: glosario, explicación de cada paso del simplex y de las gráficas."""

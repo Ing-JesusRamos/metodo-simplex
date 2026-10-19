@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Empaquetado / build
+build/
+dist/
+
+# Sistema y editores
+.DS_Store
+.idea/
+.vscode/

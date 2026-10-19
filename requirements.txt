@@ -1,0 +1,6 @@
+numpy>=2.0
+matplotlib>=3.8
+
+# extras para generar el PDF (docs/generate_pdf.py)
+reportlab>=5.0
+Pillow>=10.0

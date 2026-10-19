@@ -1,0 +1,1 @@
+"""Estado compartido entre las vistas de la aplicación."""
